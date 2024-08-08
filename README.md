@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
   
 
-  <img src="https://widgetbite.com/stats/{random-guid}" alt="watching_count" />
+  <img src="https://widgetbite.com/stats/hieu's" alt="watching_count" />
 
