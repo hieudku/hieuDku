@@ -6,8 +6,6 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Software Testing & Development major.
-- 🌱 I’m currently learning Android Studio, .NET framework.
-- 👯 I’m looking to collaborate on anything interesting.
 - ⚡ Fun fact: I have double joints on my shoulders and thumbs.
 
 
