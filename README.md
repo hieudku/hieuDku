@@ -10,6 +10,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on anything interesting.
 - ⚡ Fun fact: I have double joints on my shoulders and thumbs.
 
+
+  <img src="https://widgetbite.com/stats/{random-guid}" alt="watching_count" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hieudku&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 
@@ -20,5 +23,5 @@ Here are some ideas to get you started:
 
   
 
-  <img src="https://widgetbite.com/stats/hieu's" alt="watching_count" />
+  
 
