@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m a current Software Testing & Development major student.
+- 🔭 I'm a student majoring in Software Testing & Development. I'm focused on learning and applying my skills to build and test software.
 
   My stack :open_file_folder:
   
