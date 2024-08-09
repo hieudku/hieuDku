@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,dotnet,git,github,java,selenium,anaconda,r)](https://skillicons.dev)
 
-  <img src="https://widgetbite.com/stats/{random-guid}" alt="watching_count" />
+  <img src="https://widgetbite.com/stats/hieudku" alt="watching_count" />
 
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hieudku&theme=tokyonight" alt="mystreak"/>
