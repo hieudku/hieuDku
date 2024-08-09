@@ -49,6 +49,8 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=hieudku&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
   
 
-  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hieudku)](https://github.com/anuraghazra/github-readme-stats)
+  [![hieudku's GitHub stats](https://github-readme-stats.vercel.app/api?username=hieudku)](https://github.com/anuraghazra/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hieudku&langs_count=6)
 
 
