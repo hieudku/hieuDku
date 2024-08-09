@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m a current Software Testing & Development major student.
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,cs,dotnet,js,nodejs,react,html,css,git,github,java,selenium,anaconda,r)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,java,cs,dotnet,js,nodejs,react,html,css,git,github,selenium,anaconda,r)](https://skillicons.dev)
 
   <img src="https://widgetbite.com/stats/hieudku" alt="watching_count" />
 
