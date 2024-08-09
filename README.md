@@ -8,34 +8,29 @@ Here are some ideas to get you started:
 - 🔭 I’m a current Software Testing & Development major student.
 
 - My stack :open_file_folder::
+  
 - Front End :gift: :
--
 - [![My Skills](https://skillicons.dev/icons?i=js,react,html,css)](https://skillicons.dev)
 
 
 - Back End :electric_plug: :
--
 - [![My Skills](https://skillicons.dev/icons?i=java,cs,dotnet,nodejs)](https://skillicons.dev)
 
 
 - Mobile Android :moyai::
--
 - [![My Skills](https://skillicons.dev/icons?i=androidstudio,java,gradle)](https://skillicons.dev)
 
 
 - Testing :droplet::
-
 - [![My Skills](https://skillicons.dev/icons?i=nodejs,selenium)](https://skillicons.dev)
 
 - IDEs :hammer::
--
 - [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,androidstudio,unity)](https://skillicons.dev)
 
 - Data Science :chart_with_upwards_trend:(hobby):
-- 
 - [![My Skills](https://skillicons.dev/icons?i=anaconda,r,py)](https://skillicons.dev)
 
-- 
+  
   <img src="https://widgetbite.com/stats/hieudku" alt="watching_count" />
 
 
