@@ -42,14 +42,12 @@ Here are some ideas to get you started:
   
 
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hieudku&theme=tokyonight" alt="mystreak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hieudku&theme=tokyonight" alt="mystreak"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=hieudku&theme=algolia&show_icons=true)
   
-  ![hieudku's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=hieudku&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)
+![hieudku's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=hieudku&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)
   
-
-
 <img src="https://widgetbite.com/stats/hieudku" alt="watching_count" />
 
 
