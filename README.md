@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=hieudku&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
   
 
-
-  <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
   
 
 
