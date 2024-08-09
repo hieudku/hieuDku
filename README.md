@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Software Testing & Development major.
+- 🔭 I’m a current Software Testing & Development major.
 - ⚡ Fun fact: I have double joints on my shoulders and thumbs.
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,dotnet,git,github,java,selenium,anaconda,r)](https://skillicons.dev)
