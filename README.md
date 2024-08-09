@@ -6,9 +6,8 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m a current Software Testing & Development major student.
-- ⚡ Fun fact: I have double joints on my shoulders and thumbs.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,dotnet,git,github,java,selenium,anaconda,r)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,cs,dotnet,js,nodejs,react,html,css,git,github,java,selenium,anaconda,r)](https://skillicons.dev)
 
   <img src="https://widgetbite.com/stats/hieudku" alt="watching_count" />
 
