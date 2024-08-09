@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Software Testing & Development major.
 - ⚡ Fun fact: I have double joints on my shoulders and thumbs.
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs)](https://skillicons.dev)
 
   <img src="https://widgetbite.com/stats/{random-guid}" alt="watching_count" />
 
