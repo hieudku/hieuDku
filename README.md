@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ## Database :floppy_disk:
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase,mysql,sqlite)](https://skillicons.dev)
 
 <br />
 
