@@ -11,7 +11,7 @@ Here are some ideas to get you started:
   
 ## Front End :gift: 
       
-[![My Skills](https://skillicons.dev/icons?i=js,react,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,cs,html,css)](https://skillicons.dev)
 
 <br />
 
