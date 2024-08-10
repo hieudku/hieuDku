@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
   My stack :open_file_folder:
   
-- Front End :gift: 
+### Front End :gift: 
       [![My Skills](https://skillicons.dev/icons?i=js,react,html,css)](https://skillicons.dev)
 
 
