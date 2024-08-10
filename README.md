@@ -27,6 +27,12 @@ Here are some ideas to get you started:
 
 <br />
 
+## Database :floppy_disk:
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
+
+<br />
+
 ## Testing :droplet:
       
 [![My Skills](https://skillicons.dev/icons?i=nodejs,selenium)](https://skillicons.dev)
@@ -36,6 +42,12 @@ Here are some ideas to get you started:
 ## IDEs :hammer:
       
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,androidstudio,unity,anaconda)](https://skillicons.dev)
+
+<br />
+
+## Version Control :clapper:
+
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 <br />
 
