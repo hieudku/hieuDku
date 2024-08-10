@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 ## Data Science :chart_with_upwards_trend:(hobby):
       
-[![My Skills](https://skillicons.dev/icons?i=,r,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=r,py)](https://skillicons.dev)
 
 <br />
 
