@@ -13,43 +13,37 @@ Here are some ideas to get you started:
       
 [![My Skills](https://skillicons.dev/icons?i=js,react,html,css)](https://skillicons.dev)
 
--
--
+<br />
 
 ## Back End :electric_plug: 
       
 [![My Skills](https://skillicons.dev/icons?i=java,cs,dotnet,nodejs)](https://skillicons.dev)
 
--
--
+<br />
 
 ## Mobile Android :moyai:
       
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,java,gradle)](https://skillicons.dev)
 
--
--
+<br />
 
 ## Testing :droplet:
       
 [![My Skills](https://skillicons.dev/icons?i=nodejs,selenium)](https://skillicons.dev)
 
--
--
+<br />
 
 ## IDEs :hammer:
       
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,androidstudio,unity,anaconda)](https://skillicons.dev)
 
--
--
+<br />
 
 ## Data Science :chart_with_upwards_trend:(hobby):
       
 [![My Skills](https://skillicons.dev/icons?i=,r,py)](https://skillicons.dev)
 
--
--
+<br />
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hieudku&theme=tokyonight" alt="mystreak"/>
