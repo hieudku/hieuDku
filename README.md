@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hieu</h1>
 <h3 align="center">Software Development and Testing major student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hieudku&label=Profile%20views&color=0e75b6&style=flat" alt="hieudku" /> </p>
 
 - 🔭 I’m currently working on [TaskManagementApp- Android](https://github.com/hieudku/TasksManagementApp.git)
 
-- 🌱 I’m currently learning **ASP.NET, SpringBoot, React**
-
-- 👯 I’m looking to collaborate on [TaskManagementApp- Android](https://github.com/hieudku/TasksManagementApp.git)
-
-- 📫 How to reach me **hieu.dcu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
