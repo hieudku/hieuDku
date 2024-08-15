@@ -2,7 +2,9 @@
 <h3 align="center">Software Development and Testing student</h3>
 
 
-- 🔭 I’m currently working on [TaskManagementApp- Android](https://github.com/hieudku/TasksManagementApp.git)
+- 🔭 I’m currently working on
+- [TaskManagementApp- Android](https://github.com/hieudku/TasksManagementApp.git)
+- [AutomatedContentScrappingApp](https://github.com/hieudku/content-gathering-automation-webapp--REACT-Firebase.git)
 
 <p align="left">
 </p>
