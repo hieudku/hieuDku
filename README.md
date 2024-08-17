@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hieu</h1>
-<h3 align="center">Software Development and Testing student</h3>
 
+<h3 align="center">"Data will be the new natural resource, and software will be the tools."</h3>
 
 - 🔭 I’m currently working on
 - [TaskManagementApp- Android](https://github.com/hieudku/TasksManagementApp.git)
