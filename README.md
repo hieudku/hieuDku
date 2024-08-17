@@ -1,5 +1,5 @@
 
-<h3 align="center">"Data will be the new natural resource, and software will be the tools."</h3>
+<h3 align="center">"Data will be the new natural resources, and software will be the tools." -Anonymous</h3>
 
 - 🔭 I’m currently working on
 - [TaskManagementApp- Android](https://github.com/hieudku/TasksManagementApp.git)
