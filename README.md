@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on
 - [TaskManagementApp- Android](https://github.com/hieudku/TasksManagementApp.git)
-- [AutomatedContentAnalysisWebApp--REACT--TS--Firebase](https://github.com/hieudku/content-gathering-automation-webapp--REACT-Firebase.git)
+- [AutomatedContentAnalysisWebApp--REACT--TS--Node.js--Firebase](https://github.com/hieudku/content-gathering-automation-webapp--REACT-Firebase.git)
 
 
 <p align="left">
