@@ -3,8 +3,8 @@
 <h4 align="center">"While the universe marches toward entropy to its death, data algorithms stand as our defiance, carving order from chaos." -Anonymous</h4>
 <br />
 - I’m currently working on <br />
-https://github.com/hieudku/TasksManagementApp.git<br />
-https://github.com/hieudku/content-gathering-automation-webapp--REACT-Firebase.git<br />
+- https://github.com/hieudku/TasksManagementApp.git<br />
+- [AutomatedContentAnalysisWebApp](https://github.com/hieudku/AutomatedContentAnalysisWebApp-REST-API--REACT--TS--Node.js--Firebase)<br />
 
 
 
