@@ -6,7 +6,7 @@
 
 [Tasks Management App](https://github.com/hieudku/TasksManagementApp.git)  
 
-[Content Gathering Automation Webapp](https://github.com/hieudku/content-gathering-automation-webapp--REACT-Firebase.git)
+[NLP Automation Webapp](https://github.com/hieudku/content-gathering-automation-webapp--REACT-Firebase.git)
 
 
 
