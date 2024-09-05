@@ -4,7 +4,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hieudku&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hieudku&theme=transparent&hide_border=true)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hieudku&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact&hide=html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hieudku&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact&hide=html,css,jupyternotebook)
 
 
 ## 🏆 GitHub Trophies
