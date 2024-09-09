@@ -20,9 +20,9 @@
 
 ## I’m currently working on <br />
 
-[Tasks Management App](https://github.com/hieudku/TasksManagementApp.git)  
+[Tasks Management App - Android](https://github.com/hieudku/TasksManagementApp.git)  
 
-[NLP Automation Webapp](https://github.com/hieudku/content-gathering-automation-webapp--REACT-Firebase.git)
+[FitnessWebApp - ASP.NET Core](https://github.com/hieudku/FitnessWebApp-ASP.NETCore.git)
 
 
 
