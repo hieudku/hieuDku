@@ -20,9 +20,9 @@
 
 ## I’m currently working on <br />
 
-[Tasks Management App - Android](https://github.com/hieudku/TasksManagementApp.git)  
+[WelTec Parking Management](https://github.com/hieudku/ParkingFlow.git)  
 
-[FitnessWebApp - ASP.NET Core](https://github.com/hieudku/FitnessWebApp-ASP.NETCore.git)
+[CareServices Group - planning and discovery phase](https://careservices.co.nz/)
 
 
 
