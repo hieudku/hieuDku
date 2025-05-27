@@ -1,6 +1,6 @@
 ## I’m currently working on <br />
 
-[WelTec Parking Management System (Bootstrap, ASP.NET, Azure)] - deployement phase (https://github.com/hieudku/ParkingFlow.git)  
+[WelTec Parking Management System - deployement phase (Bootstrap, ASP.NET, Azure)] (https://github.com/hieudku/ParkingFlow.git)  
 
 [CareServices Group Website Revamp - planning and discovery phase (React, NodeJS, GCP)](https://careservices.co.nz/)
 
