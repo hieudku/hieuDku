@@ -16,10 +16,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=hieudku&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<h4 align="center">"Data will be the new natural resources, and software will be the tools." -Anonymous</h4>
-<h4 align="center">"While the universe marches toward entropy to its death, data algorithms stand as our defiance, carving order from chaos." -Anonymous</h4>
-<h4 align="center">"Data privacy and anonymity cater to two types of users: those who protect their information, and those who hide from accountability. Choose to protect, not to hide." -Anonymous</h4>
 
 
 
