@@ -6,7 +6,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hieudku&theme=transparent&hide_border=true)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hieudku&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact&hide=html,css,jupyternotebook)
 
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hieudku&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 
@@ -15,7 +14,6 @@
 
 
 # [![committers.top badge](https://user-badge.committers.top/new_zealand/hieudku.svg)](https://user-badge.committers.top/new_zealand/hieudku)
-
 
 
   
